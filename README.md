@@ -2,6 +2,7 @@
 # Decentralized Genetics
 ### Latest changes to main project always concurred by [CHANGELOG.md](https://github.com/Degenics/degenics-public/blob/main/CHANGELOG.md) via weekly sprint.
 
+
 ### This file provides the concept document for the Degenics project.
 If you found this file somewhere else, organizational repo for the project is at [Degenics](http://github.com/Degenics) and the public-facing website is at [decentralizedgenetics.com](http://decentralizedgenetics.com).
 
